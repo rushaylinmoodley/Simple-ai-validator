@@ -1,0 +1,6 @@
+{
+  "name": "AI Push File Security Validation Agent",
+  "description": "Zero-cost, lightweight AI-powered file validation engine for securing API endpoints against malformed, malicious, or unauthorized push files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
